@@ -47,9 +47,3 @@ set relativenumber
 "inoremap <tab> <c-r>=InsertTabWrapper()<cr>
 "inoremap <s-tab> <c-n>
 
-nnoremap <leader>w <C-w><C-w>l
-
-nnoremap <C-h><C-w>h
-nnoremap <C-j><C-w>j
-nnoremap <C-k><C-w>k
-nnoremap <C-l><C-w>l
