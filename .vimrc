@@ -35,15 +35,4 @@ set showmode
 set showcmd
 
 set relativenumber
-"Does not work
-"function! InsertTabWrapper()
-"    let col = col('.') - 1
-"    if !col || getline('.')[col - 1] !~ '\k'
-"        return "\<tab>
-"    else
-"        return "\<c-p>"
-"    endif
-"endfunction
-"inoremap <tab> <c-r>=InsertTabWrapper()<cr>
-"inoremap <s-tab> <c-n>
 
