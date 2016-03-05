@@ -48,7 +48,8 @@ nnoremap <C-J> <C-W><C-J>
 nnoremap <C-K> <C-W><C-K>
 nnoremap <C-L> <C-W><C-L>
 nnoremap <C-H> <C-W><C-H>
-"maybe this will be useful?
+
+"leader keys
 nnoremap <leader>j <C-W><C-J>
 nnoremap <leader>k <C-W><C-K>
 nnoremap <leader>l <C-W><C-L>
