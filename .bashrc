@@ -77,3 +77,4 @@ if ! shopt -oq posix; then
 fi
 
 TERM=vt220
+export PATH=$PATH:$HOME/bin
