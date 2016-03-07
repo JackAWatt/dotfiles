@@ -1,0 +1,8 @@
+[2016-03-07 01:52:03] command
+current path: /home/parallels/projects/ruby-web-scraper
+GEM_HOME=/home/parallels/.rvm/gems/ruby-2.3.0@global
+PATH=/home/parallels/.rvm/gems/ruby-2.3.0@global/bin:/home/parallels/.rvm/rubies/ruby-2.3.0/bin:/home/parallels/.rvm/bin:/home/parallels/bin:/home/parallels/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games
+GEM_PATH=/home/parallels/.rvm/gems/ruby-2.3.0@global
+command(8): command gem uninstall rvm -v 1.11.3.9 -x --abort-on-dependent
++ gem uninstall rvm -v 1.11.3.9 -x --abort-on-dependent
+Successfully uninstalled rvm-1.11.3.9
