@@ -5,5 +5,5 @@ New machine check list:
 * clone this repo
 * rvm
 * vim with ruby support
-* command-t plug in
+* command-t plug in (use rvm to match vim's ruby version)
 
