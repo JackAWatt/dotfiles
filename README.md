@@ -5,10 +5,5 @@ New machine check list:
 * clone this repo
 * rvm
 * vim with ruby support
-* command-t plug in
-* 
-*
+* command-t plug in (use rvm to match vim's ruby version)
 
-info: 
-* check history for older versions of .vimrc
-* there's another repo that has zshrc files. Will most likely add them to this repo when I get around to adding them to my development machine
