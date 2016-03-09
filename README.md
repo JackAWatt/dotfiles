@@ -6,4 +6,5 @@ New machine check list:
 * rvm
 * vim with ruby support
 * command-t plug in (use rvm to match vim's ruby version)
+* xmpfilter/seeing is believing
 
