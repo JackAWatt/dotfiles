@@ -22,7 +22,6 @@ nnoremap ; :
 
 nnoremap <leader>ev <C-w><C-v><C-l>:e $MYVIMRC<cr>
 
-set ts=4
 syntax off
 
 
