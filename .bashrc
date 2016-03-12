@@ -77,6 +77,5 @@ if ! shopt -oq posix; then
 fi
 
 TERM=vt220
-echo '[[ -s "$HOME/.rvm/scripts/rvm" ]] && source "$HOME/.rvm/scripts/rvm"' >> ~/.bashc
 export PATH=$PATH:$HOME/bin
 [[ -s "$HOME/.rvm/scripts/rvm" ]] && source "$HOME/.rvm/scripts/rvm"
