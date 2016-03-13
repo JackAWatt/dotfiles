@@ -24,7 +24,6 @@ nnoremap <leader>ev <C-w><C-v><C-l>:e $MYVIMRC<cr>
 
 syntax off
 
-
 set foldenable
 set foldlevelstart=10
 set foldnestmax=10
@@ -55,4 +54,7 @@ nnoremap <leader>k <C-W><C-K>
 nnoremap <leader>l <C-W><C-L>
 nnoremap <leader>h <C-W><C-H>
 
-
+if has("autocmd")
+      au BufReadPost * if line("'\"") > 0 && line("'\"") <= line("$")
+          \| exe "normal! g'\"" | endif
+endif
