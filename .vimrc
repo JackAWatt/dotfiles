@@ -22,7 +22,7 @@ set textwidth=79
 nnoremap ; :
 
 nnoremap <leader>ev <C-w><C-v><C-l>:e $MYVIMRC<cr>
-
+nnoremap <leader>n :nohlsearch<CR>
 syntax off
 
 set foldenable
@@ -64,4 +64,4 @@ endif
 set nobackup
 set nowb
 set noswapfile
-
+set hlsearch
