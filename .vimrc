@@ -58,3 +58,9 @@ if has("autocmd")
       au BufReadPost * if line("'\"") > 0 && line("'\"") <= line("$")
           \| exe "normal! g'\"" | endif
 endif
+
+"turn off backup, everything is under a git
+set nobackup
+set nowb
+set noswapfile
+
