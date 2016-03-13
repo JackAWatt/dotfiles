@@ -46,7 +46,8 @@ xterm*|rxvt*)
 *)
     ;;
 esac
-
+#think this might just be for zsh
+set rprompt='%t'
 # some more ls aliases
 alias ll='ls -alF'
 alias la='ls -lA'
