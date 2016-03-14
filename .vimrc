@@ -60,7 +60,7 @@ if has("autocmd")
           \| exe "normal! g'\"" | endif
 endif
 
-"turn off backup, everything is under a git
+"turn off backup
 set nobackup
 set nowb
 set noswapfile
