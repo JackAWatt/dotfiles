@@ -26,8 +26,8 @@ nnoremap <leader>n :nohlsearch<CR>
 syntax off
 
 set foldenable
-set foldlevelstart=10
-set foldnestmax=10
+set foldlevelstart=3
+set foldnestmax=3
 set foldmethod=indent
 nnoremap <space> za
 
