@@ -3,4 +3,4 @@ New machine check list:
 * OpenVPN
 * vimium(firefox)
 * vim
-
+* jupyter lab
