@@ -1,3 +1,0 @@
-
-rvm_without_gems="rvm rubygems-bundler"
-export rvm_max_time_flag=23
