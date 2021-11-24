@@ -1,4 +1,3 @@
-execute pathogen#infect()
 set nocompatible
 set history=1000
 filetype plugin indent on
